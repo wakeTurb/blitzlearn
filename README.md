@@ -1,4 +1,4 @@
-# BlitzLEARN
+# BlitzMI
 
 ## Overview
 
